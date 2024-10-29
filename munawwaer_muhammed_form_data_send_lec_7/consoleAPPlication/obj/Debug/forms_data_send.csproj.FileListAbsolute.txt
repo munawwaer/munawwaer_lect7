@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Student_Database\Student_Database\bin\Debug\Student_Database.exe.config
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Student_Database\Student_Database\bin\Debug\Student_Database.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Student_Database\Student_Database\bin\Debug\Student_Database.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Student_Database\Student_Database\obj\Debug\Student_Database.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Student_Database\Student_Database\obj\Debug\Student_Database.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Student_Database\Student_Database\obj\Debug\Student_Database.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Student_Database\Student_Database\obj\Debug\forms_data_send.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Student_Database\Student_Database\obj\Debug\Student_Database.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Student_Database\Student_Database\obj\Debug\Student_Database.pdb
